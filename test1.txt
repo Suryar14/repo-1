@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D62D-8C31
+
+ Directory of C:\Users\balaj_000\Desktop\my projet
+
+02/19/2019  01:23 PM    <DIR>          .
+02/19/2019  01:23 PM    <DIR>          ..
+02/19/2019  01:23 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  584,878,710,784 bytes free
